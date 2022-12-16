@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/whatsapp-bulk-messenger.iml" filepath="$PROJECT_DIR$/.idea/whatsapp-bulk-messenger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/whatsappBulkMessenger.iml" filepath="$PROJECT_DIR$/.idea/whatsappBulkMessenger.iml" />
     </modules>
   </component>
 </project>

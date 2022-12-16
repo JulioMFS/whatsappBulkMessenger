@@ -8,7 +8,7 @@ from time import sleep
 from urllib.parse import quote
 import os
 
-options =  Options()
+options = Options()
 options.add_experimental_option("excludeSwitches", ["enable-logging"])
 options.add_argument("--profile-directory=Default")
 options.add_argument("--user-data-dir=/var/tmp/chrome_user_data")

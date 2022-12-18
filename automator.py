@@ -1,4 +1,4 @@
-#--------------------- Whatsapp Automate ------------------#
+#--------------------- Whatsapp Automate --18/12/2022:12:09----------------#
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
